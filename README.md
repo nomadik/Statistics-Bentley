@@ -1,6 +1,5 @@
-# Welcome to GitHub Desktop!
+# Welcome to Statistics
 
-This is your README. READMEs are where you can communicate what your project is and how to use it.
+The files are here https://github.com/nomadik/Statistics-Bentley/tree/main/Violin
 
-Write your name on line 6, save it, and then head back to GitHub Desktop.
-Zhanat
+Z. for Zhanat
