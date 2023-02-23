@@ -1,4 +1,4 @@
-viol.data <- read.csv("~/Downloads/Violin/ViolinTest.csv", header = TRUE, colClasses = c("factor", "factor", "factor", "numeric")) 
+viol.data <- read.csv("ViolinTest.csv", header = TRUE, colClasses = c("factor", "factor", "factor", "numeric")) 
 aov_result <- aov(Accuracy ~ Group+Letter, data=viol.data)
 summary(aov_result)
 
